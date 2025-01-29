@@ -11,6 +11,7 @@
  */ 
 
 int main() {
-	cout << "Hello Programming II"; 
+	cout << "Hello Programming II" << endl;
+	cout << "My name is Julian and I'm a student here at OC!" << endl;
 	return 0; 
 }
